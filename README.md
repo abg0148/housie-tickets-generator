@@ -20,6 +20,7 @@ Here is an example of a ticket.
 ### Usage
 
 * Clone this repository `git clone https://github.com/abg0148/housie-tickets-generator.git`
+* Install dependencies `pip install -r requirements.txt`
 * Run code using  `python ticket-generator.py --quantity [number of tickets generated] --header [Text on ticket header]`
   
 ### Example
